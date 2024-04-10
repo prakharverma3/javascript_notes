@@ -1,2 +1,2 @@
-# js_prakhar
+# javascript-notes
 code repo for javasript
